@@ -1,10 +1,10 @@
 # Multilingual NMT with CaLoRA for Peruvian Indigenous Languages
 ## Thesis Code Repository — Oscar Moreno, QMUL MSc Data Science 2025-26
 
-This repository contains all scripts required to reproduce the experiments described in the thesis:
-*"Continual Learning for Low-Resource Neural Machine Translation: Benchmarking PEFT Methods and CaLoRA on Peruvian Indigenous Languages"*
+The project fine-tunes **NLLB-200-1.3B** (Meta AI) as part of the thesis:
+*"Parameter-Efficient Fine-Tuning and Continual Learning for Spanish-to-Peruvian Indigenous Language Neural Machine Translation"*
 
-The project fine-tunes **NLLB-200-1.3B** (Meta AI) on five Peruvian low-resource languages:
+This repository contains all scripts required to reproduce the experiments, fine-tuning **NLLB-200-1.3B** (Meta AI) on five Peruvian low-resource languages:
 | Code | Language | Family |
 |------|----------|--------|
 | `quy` | Southern Quechua | Andean |
@@ -393,8 +393,8 @@ If you use this code, please cite:
 ```bibtex
 @mastersthesis{moreno2026calora,
   author  = {Oscar Moreno},
-  title   = {Continual Learning for Low-Resource Neural Machine Translation:
-             Benchmarking PEFT Methods and CaLoRA on Peruvian Indigenous Languages},
+  title   = {Parameter-Efficient Fine-Tuning and Continual Learning for
+             Spanish-to-Peruvian Indigenous Language Neural Machine Translation},
   school  = {Queen Mary University of London},
   year    = {2026},
   month   = {August}
