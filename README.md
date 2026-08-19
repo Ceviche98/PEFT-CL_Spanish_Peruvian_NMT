@@ -1,5 +1,5 @@
 # Multilingual NMT with CaLoRA for Peruvian Indigenous Languages
-## Thesis Code Repository — Oscar Moreno, QMUL MSc Data Science 2025-26
+## Thesis Code Repository — Oscar Moreno, QMUL MSc AI 2025-26
 
 The project fine-tunes **NLLB-200-1.3B** (Meta AI) as part of the thesis:
 *"Parameter-Efficient Fine-Tuning and Continual Learning for Spanish-to-Peruvian Indigenous Language Neural Machine Translation"*
